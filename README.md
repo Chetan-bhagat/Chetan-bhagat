@@ -43,7 +43,7 @@
 
 <h2 align="left">Projects:</h2>
 <div display:"flex"  style="border: 2px solid black" >
-<kbd><a href="https://green-basketapp.netlify.app/"><img width="250" alt="Green Basket" src="https://user-images.githubusercontent.com/113410376/214485043-6d1dc5fc-8d29-4c23-9034-1f5d2a1aaaf0.png"> </a></kbd> <kbd><a href="https://chetan-potfolio.netlify.app/"><img width="250" alt="pot" src="https://user-images.githubusercontent.com/113410376/215840553-e49c33b3-5863-437b-af00-fb97e257db1d.png"></a></kbd>
+<kbd><a href="https://green-basketapp.netlify.app/"><img width="250" alt="Green Basket" src="https://user-images.githubusercontent.com/113410376/214485043-6d1dc5fc-8d29-4c23-9034-1f5d2a1aaaf0.png"> </a></kbd> <kbd><a href="https://chetan-potfolio.netlify.app/"><img width="250" height="100" alt="pot" src="https://user-images.githubusercontent.com/113410376/215840553-e49c33b3-5863-437b-af00-fb97e257db1d.png"></a></kbd>
 </div>
 
 
