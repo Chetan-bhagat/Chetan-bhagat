@@ -38,14 +38,7 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p> -->
 
 
-<div align="center" >
-  <h1 align='center'>
-<img width='150' height='50' src="https://camo.githubusercontent.com/81e598418a780d07b9e23fd717200fca0f18dee49d78507f03f7eea1c1d23fbb/687474703a2f2f692e696d6775722e636f6d2f513754515948782e706e67" />
-</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=ojasbendale18200&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ojasbendale18200&theme=vue-dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ojasbendale18200&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan-bhagat&" alt="chetan-bhagat" /></p>
 
 <h2 align="left">Projects:</h2>
