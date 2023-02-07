@@ -39,9 +39,16 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan-bhagat&" alt="chetan-bhagat" /></p>
+# ⭐ GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Chetan-bhagat&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chetan-bhagat&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-bhagat&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="left">Projects:</h2>
+---
+[![](https://visitcount.itsvg.in/api?id=Chetan-bhagat&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<h2 align="left">🔖 Projects:</h2>
 <div display:"flex"  style="border: 2px solid black" >
 <kbd><a href="https://green-basketapp.netlify.app/"><img width="250" alt="Green Basket" src="https://user-images.githubusercontent.com/113410376/214485043-6d1dc5fc-8d29-4c23-9034-1f5d2a1aaaf0.png"> </a></kbd> <kbd><a href="https://chetan-potfolio.netlify.app/"><img width="250" height="130" alt="pot" src="https://user-images.githubusercontent.com/113410376/215840553-e49c33b3-5863-437b-af00-fb97e257db1d.png"></a></kbd>
 </kbd> <kbd><a href="https://dreamy-starlight-fddfa8.netlify.app/"><img width="250" height="130" alt="pot" src="https://user-images.githubusercontent.com/113410376/215862462-357b647d-1702-4871-9500-23076fdf5740.jpeg"></a></kbd>
