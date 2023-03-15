@@ -49,9 +49,9 @@
 
 <h2 align="left">🔖 Projects:</h2>
 <div display:"flex"  style="border: 2px solid black" >
-<kbd><a href="https://green-basketapp.netlify.app/"><img width="220" height="120" alt="Green Basket" src="https://user-images.githubusercontent.com/113410376/214485043-6d1dc5fc-8d29-4c23-9034-1f5d2a1aaaf0.png"> </a></kbd> <kbd><a href="https://chetan-potfolio.netlify.app/"><img width="220" height="120" alt="pot" src="https://user-images.githubusercontent.com/113410376/215840553-e49c33b3-5863-437b-af00-fb97e257db1d.png"></a></kbd>
-</kbd> <kbd><a href="https://dreamy-starlight-fddfa8.netlify.app/"><img width="220" height="120" alt="pot" src="https://user-images.githubusercontent.com/113410376/215862462-357b647d-1702-4871-9500-23076fdf5740.jpeg"></a></kbd>
- <kbd><a href="https://kaleidoscopic-fairy-4468ea.netlify.app/"><img width="220" height="120"alt="icon" src="https://user-images.githubusercontent.com/113410376/225300006-83da5189-69ef-4c04-83c7-f4aad39bacc6.png"></a></kbd>
+<kbd><a href="https://green-basketapp.netlify.app/"><img width="200" height="100" alt="Green Basket" src="https://user-images.githubusercontent.com/113410376/214485043-6d1dc5fc-8d29-4c23-9034-1f5d2a1aaaf0.png"> </a></kbd> <kbd><a href="https://chetan-potfolio.netlify.app/"><img width="200" height="100" alt="pot" src="https://user-images.githubusercontent.com/113410376/215840553-e49c33b3-5863-437b-af00-fb97e257db1d.png"></a></kbd>
+</kbd> <kbd><a href="https://dreamy-starlight-fddfa8.netlify.app/"><img width="200" height="100" alt="pot" src="https://user-images.githubusercontent.com/113410376/215862462-357b647d-1702-4871-9500-23076fdf5740.jpeg"></a></kbd>
+ <kbd><a href="https://kaleidoscopic-fairy-4468ea.netlify.app/"><img width="200" height="100" alt="icon" src="https://user-images.githubusercontent.com/113410376/225300006-83da5189-69ef-4c04-83c7-f4aad39bacc6.png"></a></kbd>
 
 </div>
 
