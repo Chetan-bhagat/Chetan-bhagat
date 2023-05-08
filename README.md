@@ -8,7 +8,6 @@
  -->
 - 🌱 I’m currently learning **Node JS backend.**
 
-- 👨‍💻 All of my projects are available at [https://chetan-bhagat.github.io/](https://chetan-bhagat.github.io/)
 
 - 📝 I regularly post vedio on [https://www.youtube.com/@UpSkills776](https://www.youtube.com/@UpSkills776)
 
